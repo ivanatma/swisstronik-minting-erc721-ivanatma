@@ -99,8 +99,8 @@ npm run mint
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [rikindrn](https://github.com/rikindrn)
-twitter : @rikindrn
-telegram : @rikindrn
+github : https://github.com/ivanatma
+twitter : @ivanatma
+telegram : @ivanatma
 
 0x0D0f25895923f089f37F82B28D82B9CDc864b238
